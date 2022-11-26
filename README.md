@@ -16,3 +16,5 @@ Support can be found in my discord server, https://discord.com/invite/jerryrune
 
 https://github.com/JerryRune/JerryRune-Addons/releases/tag/1.0.2
 open the zip file and put the folder named "JerryRuneAddons into your chat triggers modules folder.
+
+Currently working on making it togglable in a gui instead of a keybind.
