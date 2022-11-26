@@ -16,5 +16,3 @@ Support can be found in my discord server, https://discord.com/invite/jerryrune
 
 https://github.com/JerryRune/JerryRune-Addons/releases/tag/1.0.2
 open the zip file and put the folder named "JerryRuneAddons into your chat triggers modules folder.
-
-The code was oringinally writen by Sub18Runs and was then optmized and fixed by byBackfish. It's fully open souce so you can check if you think it's a rat :D
