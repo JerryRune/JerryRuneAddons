@@ -14,6 +14,7 @@ Support can be found in my discord server, https://discord.com/invite/jerryrune
 
 *HOW TO DOWNLOAD*
 
-Press on the green button labled "code", press download zip then unzip the file, then put the file named "JerryRune-Addons-main" into your chat triggers modules file. (Simply do /ct files in game to find the file), then do /ct reload and the hotkey will be in minecraft controls.
+https://github.com/JerryRune/JerryRune-Addons/releases/tag/1.0.2
+unzip the file and put the folder names "JerryRuneAddons into your chat triggers modules folder.
 
 The code was oringinally writen by Sub18Runs and was then optmized and fixed by byBackfish. It's fully open souce so you can check if you think it's a rat :D
