@@ -1,0 +1,7 @@
+{
+    "name": "JerryRune Addons - No Falling Block Rendering",
+    "description": "Prevents falling blocks from rendering",
+    "author": ["Original code writen by Sub18Runs, then remade by byBackfish"],
+    "entry": "index.js",
+    "requires": ["PersistentData"]
+  }
