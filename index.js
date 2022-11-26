@@ -1,6 +1,6 @@
 import PVObject from "PersistentData";
 
-const config = new PVObject("NoFallingBlocks", {
+const config = new PVObject("JerryRuneAddons", {
   enabled: false,
   key: Keyboard.KEY_NONE,
 });
@@ -13,7 +13,7 @@ let toggleKeyBind = new KeyBind(
   "No Falling Blocks"
 );
 
-const prefix = "&8[&a&lNo Falling Blocks&8]&r &7&l> &r";
+const prefix = "&8[&a&lJerryRuneAddons&8]&r &7&l> &r";
 
 ChatLib.chat(`${prefix} &7Loaded successfully!`);
 
